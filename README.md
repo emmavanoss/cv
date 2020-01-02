@@ -25,10 +25,10 @@ My favourite projects so far have been:
   challenge during the Maker's course. I spent a couple of days creating the
   business logic for scoring a bowling game (which was surprisingly complex)
   and had fun making a silly themed front end that updates the scores, disables
-  buttons when the scoreboard is complete, and adds cells if an extra round is
+  buttons when the scoreboard is complete, and adds cells to the scorecard if an extra round is
   called for.
   
-* [New summary challenge](https://github.com/emmavanoss/news-summary-challenge) - I spent another weekend putting together this app that displays news headlines and summarises articels. It hits the Guardian
+* [New summary challenge](https://github.com/emmavanoss/news-summary-challenge) - I spent another weekend putting together this app that displays news headlines and summarises articles. It hits the Guardian
     newspaper API for news stories and
     Aylien API to summarise stories. It was my first try at using API calls with AJAX (vanilla JS only).
     
@@ -36,13 +36,13 @@ My favourite projects so far have been:
   emulating the famous photo sharing platform (but with bins). I had fun
   working out how to create user accounts and authentication, etc., with
   minimal baggage given the small size of the app. It was good practice as well
-  to work out how to store pictures in ActiveRecord, and implementing some
+  working out how to store pictures in ActiveRecord, and implementing some
   basic security and display concerns.
 
 These projects hopefully help demonstrate my excitement about programming. I
-would love to find a job that will help me continue to learn about as much as
+would love to find a job that will help me continue to learn as much as
 possible, and help me develop my processes and best practice to keep writing
-better and better quality code.
+better and better code.
 
 ## Tech skills
 
@@ -60,7 +60,7 @@ better and better quality code.
 
 * **Solid processes** - Through Makers I've developed a methodical TDD process that helps me tackle any new problem calmly and methodically. I invest time in planning and follow a strict red-green-refactor process, always looking for the smallest, simplest and most useful next step. This has allowed me to build my own projects outside the course, like [Appy-snap](https://github.com/emmavanoss/appy-snap), using previously unfamiliar frameworks/technologies like React.
 
-*  **Focus on human readability** - I agree with the philosophy that code should speak to humans first and machines second. Programming involves constant updates and changes, whether to your own code or someone else's, and a clean, clear codebase that can easily be changed is my ideal. I write good-quality code, aligned with the SOLID principles, that expresses itself clearly and is easy to read and change.
+*  **Focus on human readability** - I agree with the philosophy that code should speak to humans first and machines second. Programming involves constant updates and changes, whether to your own code or someone else's, and a clean, clear codebase that can easily be changed is my ideal. I always try to write good-quality code, aligned with the SOLID principles, that expresses itself clearly and is easy to read and change.
 
 * **People skills** - In my opinion, working well with others is one of the most important skills in any job. You can't expect to make useful, creative and intelligent software without communicating with your teammates and clients. What is more, learning from other people is the fastest way to build your own understanding, and expose yourself to new ideas. I've demonstrated and developed these skills during my previous life as a social researcher and consultant, and continue to apply them in group projects at Makers, developing apps like [MakersBnb](https://github.com/emmavanoss/makersbnb) and [Acebook-Greenbook](https://github.com/elfiyang16/acebook-greenbook) in teams over two-week sprints.
 
@@ -85,11 +85,11 @@ Intensive bootcamp for web development (one month of remote study and three mont
 
 #### Ecole Normale Supérieure de Lyon, France (2014-2015)
 
-*Exchange programme*
+*Exchange program*
 
 * Spent a year on exchange at a prestigious French postgrad university
-* No course credit requirements and I wasn't being graded, so I tried lots of things, particularly comparative literature and advanced French
-* Visited new places, met new people and rediscovered the fun of learning things for their own sake without grades
+* No course credit requirements and I wasn't being graded, so I tried lots of things, like comparative literature and advanced French
+* Visited new places, met new people and rediscovered the fun of learning things for their own sake, without worrying about exams
 
 #### Trinity College, Cambridge (2011-2014)
 
@@ -99,7 +99,7 @@ Intensive bootcamp for web development (one month of remote study and three mont
   phonology & phonetics, sociolinguistics, history and language change, and 
   first and second language acquisition
 * Specialised in historical linguistics and language change
-* Awarded Distinction for my dissertation, where I tested whether historical reconstruction techniques could be applied to sign languages. I modelled four sign languages with known history (BSL, ASL, Auslan and NZSL), using the comparative method used for spoken languages, and tested whether the results matched up to the known history of these four languages - spoiler, they did not
+* Awarded Distinction for my dissertation, where I tested whether historical reconstruction techniques could be applied to sign languages. I used the Comparative Method (developed for spoken languages) to model three sign languages that are known to have some shared history (BSL, Auslan and NZSL), and one that's known to be unrelated (ASL). I reconstructed a family tree using the established techniques, and tested whether the results matched up to the known historical relationships of these four languages - spoiler, they did not
 * Won a Tripos Prize for outstanding results in 2014 and 2012, and a Junior Scholarship in 2012
 * Played very badly for the women's football team in 2012-2014, and loved it
 
