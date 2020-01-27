@@ -2,8 +2,7 @@
 
 ## Who I am
 
-I'm a full-stack junior web developer, looking for a job where I can learn fast
-with exciting new challenges and ideas.
+I'm a full-stack junior web developer with a background in linguistics (undergrad), psychology (MSc) and professional experience with social research, statistics, project management and the public sector.
 
 I've been coding since January 2019 and I've never looked back. Being able to
 dream something up and then create it is an incredible feeling, and there is so
@@ -11,7 +10,8 @@ much to learn and explore that I don't think I'll ever want to stop. The
 technologies and patterns and ideas I've learned during my 12 weeks at Makers
 feels like the very tip of the iceberg, so I've been using my free time to jump
 off from that into different ideas, for example exploring functional
-programming in Elixir.
+programming in Elixir. Now I'm looking for a job as a developer where I can learn fast,
+with exciting new challenges and ideas.
 
 My favourite projects so far have been:
 
