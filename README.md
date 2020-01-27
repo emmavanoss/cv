@@ -15,25 +15,13 @@ with exciting new challenges and ideas.
 
 My favourite projects so far have been:
 
-* [Appy-snap](https://github.com/emmavanoss/appy-snap) - my first attempt at a
-  React app, bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-  I had fun putting together this sliding puzzle game over a weekend before I started Makers, and I have plans to
-  build it out with seeded levels (so you can battle a friend), leaderboards
-  and other fancy stuff.
-  
-* [Bowling](https://github.com/emmavanoss/bowling-challenge) - a weekend
-  challenge during the Maker's course. I spent a couple of days creating the
-  business logic for scoring a bowling game (which was surprisingly complex)
-  and had fun making a silly themed front end that updates the scores, disables
-  buttons when the scoreboard is complete, and adds cells to the scorecard if an extra round is
-  called for.
-  
-* [New summary challenge](https://github.com/emmavanoss/news-summary-challenge) - I spent another weekend putting together this app that displays news headlines and summarises articles. It hits the Guardian
-    newspaper API for news stories and
-    Aylien API to summarise stories. It was my first try at using API calls with AJAX (vanilla JS only).
+* [Snappy pictures](snappy.pictures) - this is a game I'm working on which is currently deployed with Netlify at [snappy.pictures](snappy.pictures), with the backend deployed separately on Heroku. I originally made a frontend-only version before I started Makers to try out React and I'm now building a backend to handle shuffling, completion and highscores, and to enable players to battle 1-on-1 using the same seeded shuffled board. The [frontend code](https://github.com/emmavanoss/snappy-frontend) is bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and the [backend](https://github.com/emmavanoss/snappy-backend) is with node.
+
+* [CashCow](https://cashcow2020.herokuapp.com/) - my final project at Makers. I spent two weeks putting together this stock market tracking webapp in a team of four. The code for both front and backend is [here](https://github.com/CodeKrakken/cashcow). The app hits a number of external APIs (including [AlphaVantage](https://www.alphavantage.co/) and [Google news](https://newsapi.org/s/google-news-api)) to gather up-to-date financial and news data for any stock symbol (e.g. TSLA or MSFT) and displays this in a single-page React app, using D3.js to create a seven-day chart and making a buy/sell/stik recommendation based on a calculated 50-day moving average. Users can also create an account to track the stocks in their own portfolio and see key information at a glance.
     
 * [Binstagram](https://github.com/emmavanoss/binstagram) - a Rails app
-  emulating the famous photo sharing platform (but with bins). I had fun
+  emulating the famous photo sharing platform (but with bins). This was a 'weekend challenge' I completed during the Makers course. 
+  I had fun
   working out how to create user accounts and authentication, etc., with
   minimal baggage given the small size of the app. It was good practice as well
   working out how to store pictures in ActiveRecord, and implementing some
@@ -46,15 +34,10 @@ better and better code.
 
 ## Tech skills
 
-* Ruby & Ruby on Rails
-* JavaScript, including ES6
-* Sinatra, JQuery & React
-* SQLite, Postgres, ActiveRecord and DataMapper
-* RSpec and Jasmine
-* Elixir
-* Python
-* HTML
-* CSS
+* Ruby, Ruby on Rails, RSpec and Sinatra
+* JavaScript (including ES6), React, D3, JQuery, Node, Jasmine and Sinon
+* SQLite, Postgres, ActiveRecord and DataMapper and tablePlus
+* HTML, css, Python and Elixir
 
 ## Other skills
 
@@ -71,7 +54,7 @@ better and better code.
 Intensive bootcamp for web development (one month of remote study and three months on-site)
 - OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React
 - RSpec, Jasmine
 
 #### University of Westminster (2015-2016)
