@@ -15,9 +15,9 @@ with exciting new challenges and ideas.
 
 My favourite projects so far have been:
 
-* [Snappy pictures](snappy.pictures) - this is a game I'm working on which is currently deployed with Netlify at [snappy.pictures](snappy.pictures), with the backend deployed separately on Heroku. I originally made a frontend-only version before I started Makers to try out React and I'm now building a backend to handle shuffling, completion and highscores, and to enable players to battle 1-on-1 using the same seeded shuffled board. The [frontend code](https://github.com/emmavanoss/snappy-frontend) is bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and the [backend](https://github.com/emmavanoss/snappy-backend) is with node.
+* [Snappy pictures](https://snappy.pictures/) - this is a game I'm working on which is currently deployed with Netlify at [snappy.pictures](https://snappy.pictures/) (tap/click to move a square and refresh for a new board), with the backend deployed separately on Heroku. I originally made a frontend-only version before I started Makers to try out React and I'm now building a backend to handle shuffling, completion and highscores, and to enable players to battle 1-on-1 using the same seeded shuffled board. The [frontend code](https://github.com/emmavanoss/snappy-frontend) is bootstrapped using [Create React App](https://github.com/facebook/create-react-app) and the [backend](https://github.com/emmavanoss/snappy-backend) is with node.
 
-* [CashCow](https://cashcow2020.herokuapp.com/) - my final project at Makers. I spent two weeks putting together this stock market tracking webapp in a team of four. The code for both front and backend is [here](https://github.com/CodeKrakken/cashcow). The app hits a number of external APIs (including [AlphaVantage](https://www.alphavantage.co/) and [Google news](https://newsapi.org/s/google-news-api)) to gather up-to-date financial and news data for any stock symbol (e.g. TSLA or MSFT) and displays this in a single-page React app, using D3.js to create a seven-day chart and making a buy/sell/stik recommendation based on a calculated 50-day moving average. Users can also create an account to track the stocks in their own portfolio and see key information at a glance.
+* [CashCow](https://cashcow2020.herokuapp.com/) - my final project at Makers. I spent two weeks putting together this stock market tracking webapp in a team of four. The code for both front and backend is [here](https://github.com/CodeKrakken/cashcow). The app hits a number of external APIs (including [AlphaVantage](https://www.alphavantage.co/) and [Google news](https://newsapi.org/s/google-news-api)) to gather up-to-date financial and news data for any stock symbol (e.g. TSLA or MSFT) and displays this in a single-page React app, using D3.js to create a seven-day chart and making a buy/sell/stick recommendation based on a calculated 50-day moving average. Users can also create an account to track stocks in their own portfolio.
     
 * [Binstagram](https://github.com/emmavanoss/binstagram) - a Rails app
   emulating the famous photo sharing platform (but with bins). This was a 'weekend challenge' I completed during the Makers course. 
@@ -25,7 +25,7 @@ My favourite projects so far have been:
   working out how to create user accounts and authentication, etc., with
   minimal baggage given the small size of the app. It was good practice as well
   working out how to store pictures in ActiveRecord, and implementing some
-  basic security and display concerns.
+  basic security and display concerns with Rails.
 
 These projects hopefully help demonstrate my excitement about programming. I
 would love to find a job that will help me continue to learn as much as
@@ -41,11 +41,11 @@ better and better code.
 
 ## Other skills
 
-* **Solid processes** - Through Makers I've developed a methodical TDD process that helps me tackle any new problem calmly and methodically. I invest time in planning and follow a strict red-green-refactor process, always looking for the smallest, simplest and most useful next step. This has allowed me to build my own projects outside the course, like [Appy-snap](https://github.com/emmavanoss/appy-snap), using previously unfamiliar frameworks/technologies like React.
+* **Solid processes** - Through Makers I've developed a methodical TDD process that helps me tackle any new problem calmly and methodically. I invest time in planning and follow a strict red-green-refactor process, always looking for the smallest, simplest and most useful next step. This has allowed me to build my own projects outside the course, like [snappy pictures](https://snappy.pictures/), using previously unfamiliar frameworks/technologies like React.
 
 *  **Focus on human readability** - I agree with the philosophy that code should speak to humans first and machines second. Programming involves constant updates and changes, whether to your own code or someone else's, and a clean, clear codebase that can easily be changed is my ideal. I always try to write good-quality code, aligned with the SOLID principles, that expresses itself clearly and is easy to read and change.
 
-* **People skills** - In my opinion, working well with others is one of the most important skills in any job. You can't expect to make useful, creative and intelligent software without communicating with your teammates and clients. What is more, learning from other people is the fastest way to build your own understanding, and expose yourself to new ideas. I've demonstrated and developed these skills during my previous life as a social researcher and consultant, and continue to apply them in group projects at Makers, developing apps like [MakersBnb](https://github.com/emmavanoss/makersbnb) and [Acebook-Greenbook](https://github.com/elfiyang16/acebook-greenbook) in teams over two-week sprints.
+* **People skills** - In my opinion, working well with others is one of the most important skills in any job. You can't expect to make useful, creative and intelligent software without communicating with your teammates and clients. What is more, learning from other people is the fastest way to build your own understanding, and expose yourself to new ideas. I've demonstrated and developed these skills during my previous life as a social researcher and consultant, and continue to apply them in group projects at Makers, developing apps like [CashCow](https://github.com/CodeKrakken/cashcow) and [Acebook-Greenbook](https://github.com/elfiyang16/acebook-greenbook) in teams over two-week sprints.
 
 ## Education
 
